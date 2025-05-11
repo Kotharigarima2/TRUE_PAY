@@ -1,0 +1,57 @@
+@import "tailwindcss";
+.box{
+  height: 460px ;
+  width: 300px;
+
+  margin: auto;
+  margin-top: 7em;
+   border-radius: 7px;
+   padding: 15px;
+}
+.inp1{
+ outline: none;
+
+  
+ 
+ 
+}
+.inpo{
+  
+  margin-top: 22px;
+  margin-left: 2px;
+  border: 1px solid #EAF7F9;
+  border-radius: 7px;
+  padding: 8px ;
+  background-color: #EAF7F9;
+  
+}
+.btn-a{
+border: 1px solid #30B0C7;
+padding: 5px;
+border-radius: 7px;
+cursor: pointer;
+background-color: #12B1FB;
+color: white;
+
+
+}
+.otph{
+  background-color: #EAF7F9;
+  border-radius: 6px;
+}
+span{
+  box-shadow: 1px 2px 3px;
+}
+.sub{
+  background-color: #12B1FB;
+  border: 1px solid #12B1FB;
+
+  padding: 5px 12px 5px 12px;
+  border-radius: 22px;
+  color: white;
+}
+.sub:hover{
+  background-color: white;
+  color: #12B1FB;
+  transition: 0.3s;
+}
